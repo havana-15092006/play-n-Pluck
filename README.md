@@ -13,7 +13,7 @@
 - Member 2: Sreedeep Pradeep
 
 ### Project Description
-test your hair count while playing games.
+its a fun and feel good web for you to find happines.
 
 
 ## Technical Details
