@@ -41,8 +41,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img alt="frame (3)" src="./screen02.png" />
+<br>
+<img width="3188" height="1202" alt="frame (3)" src="./screen03.png" />
 
 Made with ❤️ at TinkerHub Useless Projects 
 
