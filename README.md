@@ -36,12 +36,7 @@ For Software:
 -java-Script
 
 # ProjectDemo
-# Vedios
 
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
 <img alt="frame (3)" src="./screen02.png" />
 <br>
 <img width="3188" height="1202" alt="frame (3)" src="./screen03.png" />
